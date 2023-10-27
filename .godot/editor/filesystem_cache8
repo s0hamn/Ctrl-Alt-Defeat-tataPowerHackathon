@@ -1,0 +1,343 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1698406405
+hello.txt::TextFile::-1::1698404103::0::1::::<><>::
+icon.svg::CompressedTexture2D::775558264003983351::1698405521::1698405529::1::::<><>::
+README.md::TextFile::-1::1698404021::0::1::::<><>::
+::res://assets/::1698405624
+::res://assets/PixelSpaces/::1698406324
+PixelSpaces Free Pack.png::CompressedTexture2D::1594635253960996641::1698405606::1698406324::1::::<><>::
+readme.txt::TextFile::-1::1698405607::0::1::::<><>::
+::res://assets/PixelSpaces/Backgrounds/::1698406324
+Cloud_1.png::CompressedTexture2D::6107221025342893701::1698405604::1698406324::1::::<><>::
+Cloud_small_3.png::CompressedTexture2D::8111011575929327654::1698405604::1698406324::1::::<><>::
+House_largel_red.png::CompressedTexture2D::1689836107091946379::1698405604::1698406324::1::::<><>::
+House_small_beige.png::CompressedTexture2D::4020157185301226150::1698405604::1698406324::1::::<><>::
+Mountain_large_1.png::CompressedTexture2D::7898780394002186155::1698405604::1698406324::1::::<><>::
+Mountain_medium_1.png::CompressedTexture2D::8464254378243802899::1698405604::1698406324::1::::<><>::
+Mountain_small_1.png::CompressedTexture2D::1203728482887642256::1698405604::1698406324::1::::<><>::
+Tree_medium.png::CompressedTexture2D::966810587889791564::1698405604::1698406324::1::::<><>::
+::res://assets/PixelSpaces/Furniture/::1698406324
+Door_closed.png::CompressedTexture2D::6372564201414252616::1698405604::1698406324::1::::<><>::
+Door_opened.png::CompressedTexture2D::1905911087480081778::1698405604::1698406324::1::::<><>::
+Elevator_closed.png::CompressedTexture2D::8275642666375081142::1698405604::1698406324::1::::<><>::
+Elevator_opened.png::CompressedTexture2D::2136280535690461200::1698405604::1698406324::1::::<><>::
+Light_1.png::CompressedTexture2D::6701914002859457078::1698405604::1698406324::1::::<><>::
+Light_2.png::CompressedTexture2D::7461877491610692948::1698405604::1698406324::1::::<><>::
+Light_3.png::CompressedTexture2D::5018249798515985933::1698405604::1698406324::1::::<><>::
+Sign_exit_left.png::CompressedTexture2D::1660371095179994576::1698405604::1698406324::1::::<><>::
+Stairs.png::CompressedTexture2D::3651922407916921085::1698405604::1698406324::1::::<><>::
+::res://assets/PixelSpaces/Furniture/Bathroom/::1698406324
+Bathtub.png::CompressedTexture2D::7309852734573310448::1698405604::1698406324::1::::<><>::
+Mirror.png::CompressedTexture2D::1212344448032989533::1698405604::1698406324::1::::<><>::
+Sink_bathroom.png::CompressedTexture2D::7511466018474942898::1698405604::1698406324::1::::<><>::
+Sink_bathroom_2.png::CompressedTexture2D::4157394611162771315::1698405604::1698406324::1::::<><>::
+Toilet.png::CompressedTexture2D::8767887467126006213::1698405604::1698406324::1::::<><>::
+Toilet_side.png::CompressedTexture2D::3491870196541288055::1698405604::1698406324::1::::<><>::
+Towel_rail.png::CompressedTexture2D::884270065408447055::1698405604::1698406324::1::::<><>::
+::res://assets/PixelSpaces/Furniture/Bedroom/::1698406324
+Bed_red.png::CompressedTexture2D::7972027189317432386::1698405605::1698406324::1::::<><>::
+Bed_yellow.png::CompressedTexture2D::3738700300296368642::1698405605::1698406324::1::::<><>::
+Bunkbed_bottom_red.png::CompressedTexture2D::7686906994794014162::1698405605::1698406324::1::::<><>::
+Bunkbed_top_green.png::CompressedTexture2D::4574363039676010829::1698405605::1698406324::1::::<><>::
+Cabinet_1.png::CompressedTexture2D::3218444282381795122::1698405605::1698406324::1::::<><>::
+Drawer_medium_1_a.png::CompressedTexture2D::986044304571876044::1698405605::1698406324::1::::<><>::
+Drawer_medium_1_c.png::CompressedTexture2D::4952158783670027747::1698405605::1698406324::1::::<><>::
+Lamp_bedroom_3.png::CompressedTexture2D::2898417077888410071::1698405605::1698406324::1::::<><>::
+Lamp_stand_1.png::CompressedTexture2D::3370924649752253527::1698405605::1698406324::1::::<><>::
+Lamp_stand_2.png::CompressedTexture2D::8304888091667227925::1698405605::1698406324::1::::<><>::
+Laptop.png::CompressedTexture2D::4353053242316657989::1698405605::1698406324::1::::<><>::
+::res://assets/PixelSpaces/Furniture/Kitchen/::1698406324
+Countertop.png::CompressedTexture2D::4300226740269366087::1698405605::1698406324::1::::<><>::
+Countertop_connecting.png::CompressedTexture2D::5532500383710725485::1698405605::1698406324::1::::<><>::
+Countertop_end.png::CompressedTexture2D::2626806780799289139::1698405605::1698406324::1::::<><>::
+Kitchen_utensil_hook.png::CompressedTexture2D::8923961450513620958::1698405605::1698406324::1::::<><>::
+Magnet_knife_holder.png::CompressedTexture2D::3982863307714908686::1698405605::1698406324::1::::<><>::
+Refrigerator_large_white.png::CompressedTexture2D::4143194590891730952::1698405605::1698406324::1::::<><>::
+Sink.png::CompressedTexture2D::5167167767318074543::1698405605::1698406324::1::::<><>::
+Sink_connecting.png::CompressedTexture2D::3678222472188417500::1698405605::1698406324::1::::<><>::
+Sink_end.png::CompressedTexture2D::5115345469373932690::1698405605::1698406324::1::::<><>::
+::res://assets/PixelSpaces/Furniture/Living Room/::1698406325
+Bookshelf_1.png::CompressedTexture2D::8195615984079861242::1698405605::1698406324::1::::<><>::
+Bookshelf_small.png::CompressedTexture2D::3705903030728375062::1698405605::1698406324::1::::<><>::
+Coffee_table_1.png::CompressedTexture2D::4485623375736528154::1698405605::1698406324::1::::<><>::
+Couch_large_2_blue.png::CompressedTexture2D::1990406550801936290::1698405605::1698406324::1::::<><>::
+Couch_large_2_green.png::CompressedTexture2D::8191208576278283174::1698405605::1698406324::1::::<><>::
+Couch_large_2_red.png::CompressedTexture2D::4633195937243620724::1698405605::1698406324::1::::<><>::
+Couch_large_blue.png::CompressedTexture2D::2672454578187885513::1698405605::1698406324::1::::<><>::
+Couch_large_green.png::CompressedTexture2D::3908550265611974662::1698405605::1698406324::1::::<><>::
+Couch_large_red.png::CompressedTexture2D::933300444992697257::1698405605::1698406324::1::::<><>::
+Couch_small_2_blue.png::CompressedTexture2D::2960402112785683805::1698405605::1698406324::1::::<><>::
+Couch_small_2_blue_side.png::CompressedTexture2D::4932783572953162150::1698405605::1698406325::1::::<><>::
+Couch_small_2_green.png::CompressedTexture2D::5678721204993265633::1698405605::1698406325::1::::<><>::
+Couch_small_2_green_side.png::CompressedTexture2D::3160736886552570932::1698405605::1698406325::1::::<><>::
+Couch_small_2_red.png::CompressedTexture2D::8409085048906460567::1698405605::1698406325::1::::<><>::
+Couch_small_2_red_side.png::CompressedTexture2D::6159843614447188177::1698405605::1698406324::1::::<><>::
+Couch_small_green.png::CompressedTexture2D::2869026749847508362::1698405605::1698406324::1::::<><>::
+Couch_small_green_side.png::CompressedTexture2D::5493208040796828131::1698405605::1698406324::1::::<><>::
+Curtainrail.png::CompressedTexture2D::5160642308528973103::1698405605::1698406324::1::::<><>::
+Curtain_medium_green.png::CompressedTexture2D::5869510392314623317::1698405605::1698406324::1::::<><>::
+Curtain_medium_green_closed.png::CompressedTexture2D::1540793547659152852::1698405605::1698406324::1::::<><>::
+Curtain_medium_red.png::CompressedTexture2D::3243454930931912470::1698405605::1698406324::1::::<><>::
+Curtain_medium_red_closed.png::CompressedTexture2D::3559829696629420852::1698405605::1698406324::1::::<><>::
+Shelf_large.png::CompressedTexture2D::5311516240463850111::1698405605::1698406324::1::::<><>::
+Shelf_medium.png::CompressedTexture2D::7470680857373106536::1698405605::1698406324::1::::<><>::
+Table_long.png::CompressedTexture2D::68884403231957015::1698405605::1698406324::1::::<><>::
+Table_medium.png::CompressedTexture2D::8409854576062740788::1698405605::1698406324::1::::<><>::
+Window_circle.png::CompressedTexture2D::7863735222238253145::1698405605::1698406324::1::::<><>::
+Window_square.png::CompressedTexture2D::2720368856623765031::1698405605::1698406324::1::::<><>::
+::res://assets/PixelSpaces/Objects/::1698405606
+::res://assets/PixelSpaces/Objects/Bathroom/::1698406324
+Bathtub_towel_blue.png::CompressedTexture2D::171314307901732212::1698405605::1698406324::1::::<><>::
+Bathtub_towel_red.png::CompressedTexture2D::3236100487461995110::1698405605::1698406324::1::::<><>::
+Bath_towel_long_blue.png::CompressedTexture2D::4667474542690251522::1698405605::1698406324::1::::<><>::
+Bath_towel_long_green.png::CompressedTexture2D::2791639162261059572::1698405605::1698406324::1::::<><>::
+::res://assets/PixelSpaces/Objects/Bedroom/::1698406324
+Alarm_clock_red.png::CompressedTexture2D::8065940144483892509::1698405605::1698406324::1::::<><>::
+Backpack_blue.png::CompressedTexture2D::6402178504814618725::1698405605::1698406324::1::::<><>::
+Backpack_red.png::CompressedTexture2D::6318532333805847802::1698405605::1698406324::1::::<><>::
+Baseball_bat.png::CompressedTexture2D::5631976140589530773::1698405606::1698406324::1::::<><>::
+Box_blue_large.png::CompressedTexture2D::4026958713481938660::1698405606::1698406324::1::::<><>::
+Box_blue_medium.png::CompressedTexture2D::2535280249114091544::1698405606::1698406324::1::::<><>::
+Box_blue_small.png::CompressedTexture2D::8165335869202507527::1698405606::1698406324::1::::<><>::
+Box_green_large.png::CompressedTexture2D::555922223154870141::1698405606::1698406324::1::::<><>::
+Box_green_medium.png::CompressedTexture2D::7202660701697310526::1698405606::1698406324::1::::<><>::
+Box_green_small.png::CompressedTexture2D::297917398965054264::1698405606::1698406324::1::::<><>::
+Calendar_2.png::CompressedTexture2D::1665992075490327248::1698405606::1698406324::1::::<><>::
+Clock_1_blue.png::CompressedTexture2D::2255958715952816832::1698405606::1698406324::1::::<><>::
+Clock_1_red.png::CompressedTexture2D::4984503344679496125::1698405606::1698406324::1::::<><>::
+Moving_package_large.png::CompressedTexture2D::1270938259271655231::1698405606::1698406324::1::::<><>::
+Moving_package_small.png::CompressedTexture2D::7537798714813919280::1698405606::1698406324::1::::<><>::
+Poster_1.png::CompressedTexture2D::7231068692203127049::1698405606::1698406324::1::::<><>::
+Skateboard_green.png::CompressedTexture2D::117520480695168081::1698405606::1698406324::1::::<><>::
+Trophy.png::CompressedTexture2D::3863576867786354825::1698405606::1698406324::1::::<><>::
+::res://assets/PixelSpaces/Objects/Kitchen/::1698406324
+Blender_blue.png::CompressedTexture2D::9126459640589326475::1698405606::1698406324::1::::<><>::
+Blender_cup_red.png::CompressedTexture2D::1756927991981864865::1698405606::1698406324::1::::<><>::
+Blender_orange.png::CompressedTexture2D::8433851222747449886::1698405606::1698406324::1::::<><>::
+Cooking_pan.png::CompressedTexture2D::5422080226328429570::1698405606::1698406324::1::::<><>::
+Glass.png::CompressedTexture2D::4894019407038078922::1698405606::1698406324::1::::<><>::
+Glass_pitcher.png::CompressedTexture2D::7629797471612982654::1698405606::1698406324::1::::<><>::
+Glass_pitcher_water.png::CompressedTexture2D::9188328670666001981::1698405606::1698406324::1::::<><>::
+Glass_water.png::CompressedTexture2D::7612562520978218569::1698405606::1698406324::1::::<><>::
+Hanging_cooking_pans.png::CompressedTexture2D::8722730173616590703::1698405606::1698406324::1::::<><>::
+Knife_1.png::CompressedTexture2D::7465429519928940347::1698405606::1698406324::1::::<><>::
+Microwave_white.png::CompressedTexture2D::8262270617318619162::1698405606::1698406324::1::::<><>::
+Oven.png::CompressedTexture2D::6378672280031035775::1698405606::1698406324::1::::<><>::
+Oven_connecting.png::CompressedTexture2D::648335286727948884::1698405606::1698406324::1::::<><>::
+Oven_end.png::CompressedTexture2D::8907548676147488896::1698405606::1698406324::1::::<><>::
+Refrigerator_sticky_notes_1.png::CompressedTexture2D::6049485346811116477::1698405606::1698406324::1::::<><>::
+::res://assets/PixelSpaces/Objects/Living Room/::1698406324
+Books_inside_1.png::CompressedTexture2D::6170260834215035697::1698405606::1698406324::1::::<><>::
+Books_inside_2.png::CompressedTexture2D::686657090149107803::1698405606::1698406324::1::::<><>::
+Books_inside_3.png::CompressedTexture2D::5386117581673095377::1698405606::1698406324::1::::<><>::
+Books_outside_1.png::CompressedTexture2D::416022194768890159::1698405606::1698406324::1::::<><>::
+Books_outside_5.png::CompressedTexture2D::86266603476244382::1698405606::1698406324::1::::<><>::
+Flora_aloe.png::CompressedTexture2D::4859203789615478101::1698405606::1698406324::1::::<><>::
+Flora_aster.png::CompressedTexture2D::4027203194140200697::1698405606::1698406324::1::::<><>::
+Flora_daisy.png::CompressedTexture2D::2868496284336639422::1698405606::1698406324::1::::<><>::
+Flora_daisy_4.png::CompressedTexture2D::1499365067892557241::1698405606::1698406324::1::::<><>::
+Flora_poppy.png::CompressedTexture2D::5466141394985402388::1698405606::1698406324::1::::<><>::
+Flowerpot_medium_green.png::CompressedTexture2D::5772889250770502292::1698405606::1698406324::1::::<><>::
+Flowerpot_medium_red.png::CompressedTexture2D::1534942187346137196::1698405606::1698406324::1::::<><>::
+Flowerpot_medium_yellow.png::CompressedTexture2D::3177247007138639705::1698405606::1698406324::1::::<><>::
+Flowerpot_small_green.png::CompressedTexture2D::324164783582135343::1698405606::1698406324::1::::<><>::
+Flowerpot_small_red.png::CompressedTexture2D::5318443552981562101::1698405606::1698406324::1::::<><>::
+Flowerpot_small_yellow.png::CompressedTexture2D::4084543351183892340::1698405606::1698406324::1::::<><>::
+Vase_red.png::CompressedTexture2D::6682059721976626443::1698405606::1698406324::1::::<><>::
+::res://assets/PixelSpaces/Pre-made NPCs/::1698406324
+Female.png::CompressedTexture2D::8747495341618113270::1698405606::1698406324::1::::<><>::
+Male.png::CompressedTexture2D::8086352991715483446::1698405607::1698406324::1::::<><>::
+::res://assets/Village/::1698406450
+demoscene.fbx::PackedScene::4944350709355018677::1698405619::1698406439::1::::<><>::uid://dwqw4b35j2e8g::::res://assets/Village/demoscene-34d3b55775e407cc67f26e4d00baa7b6_wood.png<>uid://6flx0wvh3h5l::::res://assets/Village/demoscene-34d3b55775e407cc67f26e4d00baa7b6_murchelou.png<>uid://kj56a222mpbq::::res://assets/Village/demoscene-34d3b55775e407cc67f26e4d00baa7b6_sky.png<>uid://cpp3vo3p5eg55::::res://assets/Village/demoscene-34d3b55775e407cc67f26e4d00baa7b6_unnamed.png<>uid://yh6j3m1qaihv::::res://assets/Village/demoscene-34d3b55775e407cc67f26e4d00baa7b6_letoitrouge.png<>uid://bu4hxdwpycyfu::::res://assets/Village/demoscene-34d3b55775e407cc67f26e4d00baa7b6_unnamed (9).png<>uid://cph83i5dklxu2::::res://assets/Village/demoscene-34d3b55775e407cc67f26e4d00baa7b6_mur2.png<>uid://c0yoxaqwwsnp4::::res://assets/Village/demoscene-34d3b55775e407cc67f26e4d00baa7b6_unnamed (8).png<>uid://bs2eulahwqopl::::res://assets/Village/demoscene-34d3b55775e407cc67f26e4d00baa7b6_rougeavecdestrucsblancs.png<>uid://cnatni4p16f4i::::res://assets/Village/demoscene-34d3b55775e407cc67f26e4d00baa7b6_terre.png<>uid://bt7dk27odot5s::::res://assets/Village/demoscene-34d3b55775e407cc67f26e4d00baa7b6_gradientarbre Base Color.png<>uid://co77w87h7snjc::::res://assets/Village/demoscene-34d3b55775e407cc67f26e4d00baa7b6_unnamed (3).png
+demoscene-34d3b55775e407cc67f26e4d00baa7b6_wood.png::CompressedTexture2D::8737834314199106720::1698406426::1698406450::1::::<><>::
+demoscene-34d3b55775e407cc67f26e4d00baa7b6_murchelou.png::CompressedTexture2D::2186886349763605139::1698406426::1698406450::1::::<><>::
+demoscene-34d3b55775e407cc67f26e4d00baa7b6_sky.png::CompressedTexture2D::722344748533953310::1698406426::1698406450::1::::<><>::
+demoscene-34d3b55775e407cc67f26e4d00baa7b6_unnamed.png::CompressedTexture2D::5858378045040260626::1698406426::1698406450::1::::<><>::
+demoscene-34d3b55775e407cc67f26e4d00baa7b6_letoitrouge.png::CompressedTexture2D::1700882680906269027::1698406426::1698406450::1::::<><>::
+demoscene-34d3b55775e407cc67f26e4d00baa7b6_unnamed (9).png::CompressedTexture2D::3850530795800117646::1698406427::1698406450::1::::<><>::
+demoscene-34d3b55775e407cc67f26e4d00baa7b6_mur2.png::CompressedTexture2D::5842178795906799607::1698406427::1698406450::1::::<><>::
+demoscene-34d3b55775e407cc67f26e4d00baa7b6_unnamed (8).png::CompressedTexture2D::6577998661339561855::1698406427::1698406450::1::::<><>::
+demoscene-34d3b55775e407cc67f26e4d00baa7b6_rougeavecdestrucsblancs.png::CompressedTexture2D::3705837230491406209::1698406427::1698406450::1::::<><>::
+demoscene-34d3b55775e407cc67f26e4d00baa7b6_terre.png::CompressedTexture2D::5686473638567580078::1698406427::1698406450::1::::<><>::
+demoscene-34d3b55775e407cc67f26e4d00baa7b6_gradientarbre Base Color.png::CompressedTexture2D::3786270278067850938::1698406427::1698406450::1::::<><>::
+demoscene-34d3b55775e407cc67f26e4d00baa7b6_unnamed (3).png::CompressedTexture2D::5823529280748832472::1698406428::1698406450::1::::<><>::
+::res://assets/Village/demoscene.fbm/::1698406406
+gradientarbre Base Color.png::CompressedTexture2D::136919938927708378::1698406407::1698406406::1::::<><>::
+letoitrouge.png::CompressedTexture2D::9011443886124322210::1698406407::1698406406::1::::<><>::
+mur2.png::CompressedTexture2D::711605119022088531::1698406407::1698406406::1::::<><>::
+murchelou.png::CompressedTexture2D::6442389336914830740::1698406407::1698406406::1::::<><>::
+rougeavecdestrucsblancs.png::CompressedTexture2D::7926337974772199406::1698406407::1698406406::1::::<><>::
+sky.png::CompressedTexture2D::1236105966986547633::1698406407::1698406406::1::::<><>::
+terre.png::CompressedTexture2D::1187510162393594563::1698406407::1698406406::1::::<><>::
+unnamed (3).png::CompressedTexture2D::7081113636234442223::1698406407::1698406406::1::::<><>::
+unnamed (8).png::CompressedTexture2D::8058047429581637643::1698406407::1698406406::1::::<><>::
+unnamed (9).png::CompressedTexture2D::3765683010524897064::1698406407::1698406406::1::::<><>::
+unnamed.png::CompressedTexture2D::2415232497150732113::1698406407::1698406406::1::::<><>::
+wood.png::CompressedTexture2D::74554353865131441::1698406407::1698406406::1::::<><>::
+::res://assets/Village/individuals files/::1698406450
+bench.fbx::PackedScene::8987927103601975926::1698405618::1698406449::1::::<><>::uid://coteupcjt2fjn::::res://assets/Village/individuals files/bench-606c7546a29615dc6d479a86d962f470_wood.png
+benchchair.fbx::PackedScene::6679793788322900399::1698405618::1698406448::1::::<><>::uid://c2uga4qnigc4n::::res://assets/Village/individuals files/benchchair-6025a008ace55bf4bde79ac4d81302b0_wood.png
+benchwood.fbx::PackedScene::355223788925267337::1698405618::1698406448::1::::<><>::uid://cruvps0kke48x::::res://assets/Village/individuals files/benchwood-2ab5743679cc2a2ceaab1f5d8996f563_wood.png
+beveragecontiner.fbx::PackedScene::144684620294462703::1698405618::1698406447::1::::<><>::
+billboard.fbx::PackedScene::2023717911384559535::1698405618::1698406447::1::::<><>::uid://dri0hgnb8w2lc::::res://assets/Village/individuals files/billboard-9839861f32aaf76da05eca44e8b9bb3d_wood.png
+billboard_001.fbx::PackedScene::2357800050256948129::1698405618::1698406447::1::::<><>::uid://cbphstr76fui8::::res://assets/Village/individuals files/billboard_001-24332a2e1e2f4daa0c1d953ec9ab7f7a_wood.png
+bottle.fbx::PackedScene::2477610100044368325::1698405618::1698406446::1::::<><>::
+cart.fbx::PackedScene::6332016881159023199::1698405618::1698406446::1::::<><>::uid://kkrhfiu4o217::::res://assets/Village/individuals files/cart-485cd141c4581b50dfc5db642b47d9bd_wood.png
+fence.fbx::PackedScene::4446038493558081815::1698405618::1698406445::1::::<><>::
+fenceend.fbx::PackedScene::93130509080872706::1698405618::1698406445::1::::<><>::
+flower.fbx::PackedScene::6005151586306980356::1698405618::1698406445::1::::<><>::uid://cyd3xg825wiyj::::res://assets/Village/individuals files/flower-9f0e8db36c19b0e2f7c61e9b24b7022d_gradientarbre Base Color.png
+flower_001.fbx::PackedScene::8785127441135642861::1698405618::1698406444::1::::<><>::uid://cd207flqxocg5::::res://assets/Village/individuals files/flower_001-0dc11d08074e8743bc2b46fd1c9cdf57_gradientarbre Base Color.png
+flower_002.fbx::PackedScene::8094384386467036885::1698405618::1698406443::1::::<><>::uid://dvveboae8u634::::res://assets/Village/individuals files/flower_002-afe7fa0ee1eac22fb2df50b3c15318c4_gradientarbre Base Color.png
+flower_003.fbx::PackedScene::3873797399195181131::1698405619::1698406442::1::::<><>::uid://c8rrdy5f2dkg4::::res://assets/Village/individuals files/flower_003-78cbc3ab88f98ca4c8bb8f8348c4b238_gradientarbre Base Color.png
+flower_004.fbx::PackedScene::3379246701477295236::1698405619::1698406441::1::::<><>::uid://db08xgx50ur8p::::res://assets/Village/individuals files/flower_004-ac942a36ed77c41f2e596eefb50dcb8f_gradientarbre Base Color.png
+flower_005.fbx::PackedScene::5415825656201830952::1698405619::1698406440::1::::<><>::uid://b80cm6hbtck03::::res://assets/Village/individuals files/flower_005-098345819b602f7ec879c5976ea85a21_gradientarbre Base Color.png
+grass-72f9e1800e24276d3d485196919dbab6_gradientarbre Base Color.png::CompressedTexture2D::973354531246988214::1698406325::1698406325::1::::<><>::
+grass.fbx::PackedScene::5544276504114811151::1698405619::1698406325::1::::<><>::
+house1-1c90ccab70aa52c12aee19504939f6bc_letoitrouge.png::CompressedTexture2D::1716309391373092277::1698406326::1698406326::1::::<><>::
+house1-1c90ccab70aa52c12aee19504939f6bc_murchelou.png::CompressedTexture2D::4815090859663307502::1698406326::1698406326::1::::<><>::
+house1-1c90ccab70aa52c12aee19504939f6bc_sky.png::CompressedTexture2D::5825454423545219857::1698406326::1698406326::1::::<><>::
+house1-1c90ccab70aa52c12aee19504939f6bc_unnamed.png::CompressedTexture2D::3628862255640002393::1698406326::1698406326::1::::<><>::
+house1-1c90ccab70aa52c12aee19504939f6bc_wood.png::CompressedTexture2D::7748756764017873917::1698406326::1698406326::1::::<><>::
+house1.fbx::PackedScene::2935778761841343645::1698405619::1698406327::1::::<><>::
+house2-4341e71dec07150fb5420804b91e4bc6_murchelou.png::CompressedTexture2D::7231204443208243695::1698406331::1698406331::1::::<><>::
+house2-4341e71dec07150fb5420804b91e4bc6_sky.png::CompressedTexture2D::2282471478186834886::1698406331::1698406331::1::::<><>::
+house2-4341e71dec07150fb5420804b91e4bc6_unnamed (9).png::CompressedTexture2D::451408987955152794::1698406331::1698406331::1::::<><>::
+house2-4341e71dec07150fb5420804b91e4bc6_unnamed.png::CompressedTexture2D::668524576952745864::1698406331::1698406331::1::::<><>::
+house2-4341e71dec07150fb5420804b91e4bc6_wood.png::CompressedTexture2D::2384398608526355145::1698406331::1698406331::1::::<><>::
+house2.fbx::PackedScene::7443812227172894404::1698405619::1698406333::1::::<><>::
+house3-9c992980086e4a725a00b5bc5cd2caa6_murchelou.png::CompressedTexture2D::3097502369472963229::1698406334::1698406334::1::::<><>::
+house3-9c992980086e4a725a00b5bc5cd2caa6_sky.png::CompressedTexture2D::8078713631061449335::1698406334::1698406334::1::::<><>::
+house3-9c992980086e4a725a00b5bc5cd2caa6_wood.png::CompressedTexture2D::1185474036564077458::1698406334::1698406334::1::::<><>::
+house3.fbx::PackedScene::1711036121934712435::1698405619::1698406334::1::::<><>::
+house4-a76498778927cece1ba5440fc94d7fbf_mur2.png::CompressedTexture2D::2749545038789361594::1698406337::1698406337::1::::<><>::
+house4-a76498778927cece1ba5440fc94d7fbf_sky.png::CompressedTexture2D::9086456401086415363::1698406337::1698406337::1::::<><>::
+house4-a76498778927cece1ba5440fc94d7fbf_unnamed (8).png::CompressedTexture2D::3062452667625419793::1698406337::1698406337::1::::<><>::
+house4-a76498778927cece1ba5440fc94d7fbf_unnamed.png::CompressedTexture2D::2568952801430628323::1698406337::1698406337::1::::<><>::
+house4-a76498778927cece1ba5440fc94d7fbf_wood.png::CompressedTexture2D::8396797485946361206::1698406337::1698406337::1::::<><>::
+house4.fbx::PackedScene::2426972259644443140::1698405619::1698406338::1::::<><>::
+house5-7f19a80bc9a46e05381660e7471bfc44_mur2.png::CompressedTexture2D::123018465754049996::1698406339::1698406339::1::::<><>::
+house5-7f19a80bc9a46e05381660e7471bfc44_sky.png::CompressedTexture2D::1942519951548832757::1698406339::1698406339::1::::<><>::
+house5-7f19a80bc9a46e05381660e7471bfc44_wood.png::CompressedTexture2D::85345697388058308::1698406339::1698406339::1::::<><>::
+house5.fbx::PackedScene::2383143858392838187::1698405619::1698406340::1::::<><>::
+house6-4b65bcea3e37f8a0a562d330a3aeab9d_mur2.png::CompressedTexture2D::7465676267306825225::1698406340::1698406340::1::::<><>::
+house6-4b65bcea3e37f8a0a562d330a3aeab9d_rougeavecdestrucsblancs.png::CompressedTexture2D::7003574392962766536::1698406340::1698406340::1::::<><>::
+house6-4b65bcea3e37f8a0a562d330a3aeab9d_sky.png::CompressedTexture2D::6345765026321723017::1698406341::1698406341::1::::<><>::
+house6-4b65bcea3e37f8a0a562d330a3aeab9d_wood.png::CompressedTexture2D::8987661681431323332::1698406340::1698406340::1::::<><>::
+house6.fbx::PackedScene::6811344967272443774::1698405619::1698406341::1::::<><>::
+house7-a5b3ed111d76cc65ba53b67af5243cd1_murchelou.png::CompressedTexture2D::7924310873355225678::1698406342::1698406342::1::::<><>::
+house7-a5b3ed111d76cc65ba53b67af5243cd1_sky.png::CompressedTexture2D::3964342943729151169::1698406342::1698406342::1::::<><>::
+house7-a5b3ed111d76cc65ba53b67af5243cd1_wood.png::CompressedTexture2D::3286548602912828296::1698406342::1698406342::1::::<><>::
+house7.fbx::PackedScene::1177490193072115174::1698405619::1698406342::1::::<><>::
+house8-52162b86fcc7cd109289d8bbaf2cc617_murchelou.png::CompressedTexture2D::2586194912534676191::1698406343::1698406343::1::::<><>::
+house8-52162b86fcc7cd109289d8bbaf2cc617_sky.png::CompressedTexture2D::8344745258893439976::1698406343::1698406343::1::::<><>::
+house8-52162b86fcc7cd109289d8bbaf2cc617_unnamed (8).png::CompressedTexture2D::8015195491174861463::1698406343::1698406343::1::::<><>::
+house8-52162b86fcc7cd109289d8bbaf2cc617_wood.png::CompressedTexture2D::3263389549676376629::1698406343::1698406343::1::::<><>::
+house8.fbx::PackedScene::5184986976759415740::1698405619::1698406343::1::::<><>::
+littlegarden-d46d6fae791ae636be9dfac047efce99_gradientarbre Base Color.png::CompressedTexture2D::48947438674209655::1698406345::1698406345::1::::<><>::
+littlegarden-d46d6fae791ae636be9dfac047efce99_unnamed (3).png::CompressedTexture2D::5899145479091354787::1698406345::1698406345::1::::<><>::
+littlegarden-d46d6fae791ae636be9dfac047efce99_wood.png::CompressedTexture2D::2404917953329208202::1698406345::1698406345::1::::<><>::
+littlegarden.fbx::PackedScene::4697041518275245033::1698405619::1698406346::1::::<><>::
+flower_005-098345819b602f7ec879c5976ea85a21_gradientarbre Base Color.png::CompressedTexture2D::4754406470220458038::1698406439::1698406450::1::::<><>::
+flower_004-ac942a36ed77c41f2e596eefb50dcb8f_gradientarbre Base Color.png::CompressedTexture2D::7283105424657816293::1698406440::1698406450::1::::<><>::
+flower_003-78cbc3ab88f98ca4c8bb8f8348c4b238_gradientarbre Base Color.png::CompressedTexture2D::7125206482686955385::1698406441::1698406450::1::::<><>::
+flower_002-afe7fa0ee1eac22fb2df50b3c15318c4_gradientarbre Base Color.png::CompressedTexture2D::8676825089631774977::1698406442::1698406450::1::::<><>::
+flower_001-0dc11d08074e8743bc2b46fd1c9cdf57_gradientarbre Base Color.png::CompressedTexture2D::5040721448251886098::1698406443::1698406450::1::::<><>::
+flower-9f0e8db36c19b0e2f7c61e9b24b7022d_gradientarbre Base Color.png::CompressedTexture2D::6465308264404800137::1698406444::1698406450::1::::<><>::
+cart-485cd141c4581b50dfc5db642b47d9bd_wood.png::CompressedTexture2D::723577179278516416::1698406446::1698406450::1::::<><>::
+billboard_001-24332a2e1e2f4daa0c1d953ec9ab7f7a_wood.png::CompressedTexture2D::4874454066275692249::1698406447::1698406450::1::::<><>::
+billboard-9839861f32aaf76da05eca44e8b9bb3d_wood.png::CompressedTexture2D::8370518175647816836::1698406447::1698406450::1::::<><>::
+benchwood-2ab5743679cc2a2ceaab1f5d8996f563_wood.png::CompressedTexture2D::6008642092578939821::1698406448::1698406450::1::::<><>::
+benchchair-6025a008ace55bf4bde79ac4d81302b0_wood.png::CompressedTexture2D::6709593551146485951::1698406448::1698406450::1::::<><>::
+bench-606c7546a29615dc6d479a86d962f470_wood.png::CompressedTexture2D::5794987730870192507::1698406449::1698406450::1::::<><>::
+streetlight-da651e24f3f77d3fc698d78f5ce40df9_sky.png::CompressedTexture2D::5868744222995189993::1698406346::1698406346::1::::<><>::
+streetlight.fbx::PackedScene::5822931625660899710::1698405619::1698406347::1::::<><>::
+streetlight_001-e5cd1ba7943b253f3e411b5d1cfb2e92_gradientarbre Base Color.png::CompressedTexture2D::7687306386347252731::1698406347::1698406347::1::::<><>::
+streetlight_001-e5cd1ba7943b253f3e411b5d1cfb2e92_sky.png::CompressedTexture2D::8635330967842288865::1698406347::1698406347::1::::<><>::
+streetlight_001.fbx::PackedScene::8135183075154658473::1698405619::1698406348::1::::<><>::
+tree-831c980446a5746f8ce20936c8e2296e_wood.png::CompressedTexture2D::6371217744551464495::1698406348::1698406348::1::::<><>::
+tree.fbx::PackedScene::404128444620059715::1698405619::1698406348::1::::<><>::
+tree_001-4c784858585aef44cd1ac9f7964c7aa0_gradientarbre Base Color.png::CompressedTexture2D::2296727218759106920::1698406348::1698406349::1::::<><>::
+tree_001-4c784858585aef44cd1ac9f7964c7aa0_wood.png::CompressedTexture2D::6960260772799117992::1698406349::1698406349::1::::<><>::
+tree_001.fbx::PackedScene::761004898289008001::1698405619::1698406349::1::::<><>::
+::res://assets/Village/individuals files/bench.fbm/::1698406448
+wood.png::CompressedTexture2D::6981637087428329262::1698406448::1698406519::1::::<><>::
+::res://assets/Village/individuals files/benchchair.fbm/::1698406448
+wood.png::CompressedTexture2D::5110607282059894767::1698406448::1698406519::1::::<><>::
+::res://assets/Village/individuals files/benchwood.fbm/::1698406448
+wood.png::CompressedTexture2D::4717307005117573250::1698406448::1698406519::1::::<><>::
+::res://assets/Village/individuals files/billboard.fbm/::1698406447
+wood.png::CompressedTexture2D::5592952784205155458::1698406447::1698406519::1::::<><>::
+::res://assets/Village/individuals files/billboard_001.fbm/::1698406447
+wood.png::CompressedTexture2D::4795941835835408417::1698406447::1698406519::1::::<><>::
+::res://assets/Village/individuals files/cart.fbm/::1698406446
+wood.png::CompressedTexture2D::217255202052425339::1698406446::1698406519::1::::<><>::
+::res://assets/Village/individuals files/flower.fbm/::1698406444
+gradientarbre Base Color.png::CompressedTexture2D::446132315083660750::1698406444::1698406519::1::::<><>::
+::res://assets/Village/individuals files/flower_001.fbm/::1698406443
+gradientarbre Base Color.png::CompressedTexture2D::664248043612387673::1698406443::1698406519::1::::<><>::
+::res://assets/Village/individuals files/flower_002.fbm/::1698406442
+gradientarbre Base Color.png::CompressedTexture2D::6093114942965220644::1698406442::1698406519::1::::<><>::
+::res://assets/Village/individuals files/flower_003.fbm/::1698406441
+gradientarbre Base Color.png::CompressedTexture2D::8700146845106679933::1698406441::1698406519::1::::<><>::
+::res://assets/Village/individuals files/flower_004.fbm/::1698406440
+gradientarbre Base Color.png::CompressedTexture2D::2276371487653793232::1698406440::1698406519::1::::<><>::
+::res://assets/Village/individuals files/flower_005.fbm/::1698406439
+gradientarbre Base Color.png::CompressedTexture2D::8479605501580294351::1698406439::1698406519::1::::<><>::
+::res://assets/Village/individuals files/grass.fbm/::1698406406
+gradientarbre Base Color.png::CompressedTexture2D::8771584772644536984::1698406325::1698406406::1::::<><>::
+::res://assets/Village/individuals files/house1.fbm/::1698406407
+letoitrouge.png::CompressedTexture2D::7016937486126516366::1698406326::1698406407::1::::<><>::
+murchelou.png::CompressedTexture2D::1635094870854736707::1698406326::1698406406::1::::<><>::
+sky.png::CompressedTexture2D::2491416280999308541::1698406326::1698406406::1::::<><>::
+unnamed.png::CompressedTexture2D::7719337857667121931::1698406326::1698406406::1::::<><>::
+wood.png::CompressedTexture2D::2247630270655165146::1698406326::1698406406::1::::<><>::
+::res://assets/Village/individuals files/house2.fbm/::1698406406
+murchelou.png::CompressedTexture2D::7612161275937435007::1698406327::1698406406::1::::<><>::
+sky.png::CompressedTexture2D::7756433998313870470::1698406327::1698406406::1::::<><>::
+unnamed (9).png::CompressedTexture2D::3559185974296354636::1698406327::1698406406::1::::<><>::
+unnamed.png::CompressedTexture2D::2331933720795570502::1698406327::1698406406::1::::<><>::
+wood.png::CompressedTexture2D::6496605914492043142::1698406327::1698406406::1::::<><>::
+::res://assets/Village/individuals files/house3.fbm/::1698406406
+murchelou.png::CompressedTexture2D::1428448626686126435::1698406334::1698406406::1::::<><>::
+sky.png::CompressedTexture2D::2526230748185869349::1698406334::1698406406::1::::<><>::
+wood.png::CompressedTexture2D::3398929054745136725::1698406334::1698406406::1::::<><>::
+::res://assets/Village/individuals files/house4.fbm/::1698406406
+mur2.png::CompressedTexture2D::4578081648105046634::1698406335::1698406406::1::::<><>::
+sky.png::CompressedTexture2D::4190016764116326531::1698406335::1698406406::1::::<><>::
+unnamed (8).png::CompressedTexture2D::4388878671025021935::1698406335::1698406406::1::::<><>::
+unnamed.png::CompressedTexture2D::381367779047492699::1698406335::1698406406::1::::<><>::
+wood.png::CompressedTexture2D::6834375282408227315::1698406335::1698406406::1::::<><>::
+::res://assets/Village/individuals files/house5.fbm/::1698406406
+mur2.png::CompressedTexture2D::658316802207501386::1698406338::1698406406::1::::<><>::
+sky.png::CompressedTexture2D::1813781728282797779::1698406338::1698406406::1::::<><>::
+wood.png::CompressedTexture2D::4444627558270725706::1698406338::1698406406::1::::<><>::
+::res://assets/Village/individuals files/house6.fbm/::1698406406
+mur2.png::CompressedTexture2D::2159820328153136739::1698406340::1698406406::1::::<><>::
+rougeavecdestrucsblancs.png::CompressedTexture2D::3009158891811633290::1698406340::1698406406::1::::<><>::
+sky.png::CompressedTexture2D::5892414429610153568::1698406340::1698406406::1::::<><>::
+wood.png::CompressedTexture2D::6316839815229666916::1698406340::1698406406::1::::<><>::
+::res://assets/Village/individuals files/house7.fbm/::1698406406
+murchelou.png::CompressedTexture2D::3736589779642631630::1698406341::1698406406::1::::<><>::
+sky.png::CompressedTexture2D::5152317182510702437::1698406341::1698406406::1::::<><>::
+wood.png::CompressedTexture2D::3514597082022358439::1698406341::1698406406::1::::<><>::
+::res://assets/Village/individuals files/house8.fbm/::1698406406
+murchelou.png::CompressedTexture2D::922899374407504457::1698406343::1698406406::1::::<><>::
+sky.png::CompressedTexture2D::165189720368134582::1698406343::1698406406::1::::<><>::
+unnamed (8).png::CompressedTexture2D::4145250742218643865::1698406343::1698406406::1::::<><>::
+wood.png::CompressedTexture2D::624455358326715325::1698406343::1698406406::1::::<><>::
+::res://assets/Village/individuals files/littlegarden.fbm/::1698406406
+gradientarbre Base Color.png::CompressedTexture2D::4313570604734358835::1698406344::1698406406::1::::<><>::
+unnamed (3).png::CompressedTexture2D::1479379717372372452::1698406344::1698406406::1::::<><>::
+wood.png::CompressedTexture2D::7348541989880379153::1698406344::1698406406::1::::<><>::
+::res://assets/Village/individuals files/streetlight.fbm/::1698406406
+sky.png::CompressedTexture2D::184655579373078419::1698406346::1698406406::1::::<><>::
+::res://assets/Village/individuals files/streetlight_001.fbm/::1698406406
+gradientarbre Base Color.png::CompressedTexture2D::2018380545645694951::1698406347::1698406406::1::::<><>::
+sky.png::CompressedTexture2D::4407393870066856608::1698406347::1698406406::1::::<><>::
+::res://assets/Village/individuals files/tree.fbm/::1698406406
+wood.png::CompressedTexture2D::839761871206833948::1698406348::1698406406::1::::<><>::
+::res://assets/Village/individuals files/tree_001.fbm/::1698406406
+gradientarbre Base Color.png::CompressedTexture2D::3623495506154179968::1698406348::1698406406::1::::<><>::
+wood.png::CompressedTexture2D::8974691094398834947::1698406348::1698406406::1::::<><>::
+::res://FBX2glTF-windows-x86_64/::1698406314
+FBX2glTF-License.txt::TextFile::-1::1698406256::0::1::::<><>::
