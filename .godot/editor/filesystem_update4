@@ -1,2 +1,4 @@
 res://main.tscn
 res://button.tres
+res://main.gd
+res://Level/level_1.tscn

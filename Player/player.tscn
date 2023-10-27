@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://boheqcn4tcc3b"]
+
+[ext_resource type="Texture2D" uid="uid://dnhdb1rjkb6m1" path="res://assets/PixelSpaces/Pre-made NPCs/Male.png" id="1_sln5e"]
+
+[node name="Player" type="CharacterBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_sln5e")
+hframes = 4
+vframes = 3
