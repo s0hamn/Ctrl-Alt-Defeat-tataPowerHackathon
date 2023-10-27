@@ -1,4 +1,50 @@
-[gd_scene format=3 uid="uid://ckj8bsj1glrgp"]
+[gd_scene load_steps=2 format=3 uid="uid://ckj8bsj1glrgp"]
+
+[ext_resource type="Theme" uid="uid://c7kmgjlnh51ax" path="res://button.tres" id="2_oh2om"]
 
 [node name="Main" type="Node2D"]
+position = Vector2(3, 1)
 rotation = 0.77898
+
+[node name="buttonNewGame" type="Button" parent="."]
+offset_left = 421.537
+offset_top = -230.67
+offset_right = 657.536
+offset_bottom = -165.67
+rotation = -0.778417
+theme = ExtResource("2_oh2om")
+text = "New Game
+"
+
+[node name="buttonContinue" type="Button" parent="."]
+offset_left = 481.253
+offset_top = -170.182
+offset_right = 717.254
+offset_bottom = -105.182
+rotation = -0.778417
+theme = ExtResource("2_oh2om")
+text = "Continue"
+
+[node name="buttonSettings" type="Button" parent="."]
+offset_left = 543.799
+offset_top = -109.675
+offset_right = 779.799
+offset_bottom = -44.675
+rotation = -0.778417
+theme = ExtResource("2_oh2om")
+text = "Settings"
+
+[node name="buttonExit" type="Button" parent="."]
+offset_left = 607.038
+offset_top = -47.0425
+offset_right = 843.038
+offset_bottom = 17.9575
+rotation = -0.778417
+theme = ExtResource("2_oh2om")
+text = "Exit"
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxLayer"]
+
+[node name="Sprite2D" type="Sprite2D" parent="ParallaxLayer/ParallaxLayer"]
