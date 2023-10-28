@@ -1,0 +1,50 @@
+[gd_resource type="Resource" script_class="DialogueResource" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://addons/dialogue_manager/dialogue_resource.gd" id="1_nddnt"]
+
+[resource]
+script = ExtResource("1_nddnt")
+titles = {
+"start": "3"
+}
+character_names = PackedStringArray()
+first_title = "3"
+lines = {
+"1": {
+"id": "1",
+"next_id": "3",
+"text": "start",
+"type": "title"
+},
+"3": {
+"character": "",
+"character_replacements": Array[Dictionary]([]),
+"id": "3",
+"next_id": "4",
+"tags": PackedStringArray(),
+"text": "Welcome to the city! 
+Now you are on your own (click to continue)",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Welcome to the city! 
+Now you are on your own (click to continue)",
+"type": "dialogue"
+},
+"4": {
+"character": "",
+"character_replacements": Array[Dictionary]([]),
+"id": "4",
+"next_id": "6",
+"tags": PackedStringArray(),
+"text": "Solve the energy crisis of all the houses in the village and earn maximum points to proceed to next level (click to continue)",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Solve the energy crisis of all the houses in the village and earn maximum points to proceed to next level (click to continue)",
+"type": "dialogue"
+},
+"6": {
+"id": "6",
+"is_snippet": false,
+"next_id": "end",
+"type": "goto"
+}
+}
+metadata/dialogue_manager_version = "2.27.1"

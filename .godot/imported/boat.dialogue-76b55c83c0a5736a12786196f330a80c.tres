@@ -1,0 +1,105 @@
+[gd_resource type="Resource" script_class="DialogueResource" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://addons/dialogue_manager/dialogue_resource.gd" id="1_86rjh"]
+
+[resource]
+script = ExtResource("1_86rjh")
+titles = {
+"start": "3"
+}
+character_names = PackedStringArray()
+first_title = "3"
+lines = {
+"1": {
+"id": "1",
+"next_id": "3",
+"text": "start",
+"type": "title"
+},
+"3": {
+"character": "",
+"character_replacements": Array[Dictionary]([]),
+"id": "3",
+"next_id": "4",
+"tags": PackedStringArray(),
+"text": "Boat is stuck, What to do now?",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Boat is stuck, What to do now?",
+"type": "dialogue"
+},
+"4": {
+"id": "4",
+"next_id": "5",
+"next_id_after": "9",
+"responses": PackedStringArray("4", "6"),
+"tags": PackedStringArray(),
+"text": "Row your boat to the shore",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Row your boat to the shore",
+"type": "response"
+},
+"5": {
+"character": "",
+"character_replacements": Array[Dictionary]([]),
+"id": "5",
+"next_id": "9",
+"parent_id": "4",
+"tags": PackedStringArray(),
+"text": "OOPS Wrong answer",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "OOPS Wrong answer",
+"type": "dialogue"
+},
+"6": {
+"id": "6",
+"next_id": "7",
+"next_id_after": "9",
+"tags": PackedStringArray(),
+"text": "Use hydroelectric power to find a solution",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Use hydroelectric power to find a solution",
+"type": "response"
+},
+"7": {
+"character": "",
+"character_replacements": Array[Dictionary]([]),
+"id": "7",
+"next_id": "8",
+"parent_id": "6",
+"tags": PackedStringArray(),
+"text": "You guessed it right! Congrats! (left click to continue)",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "You guessed it right! Congrats! (left click to continue)",
+"type": "dialogue"
+},
+"8": {
+"id": "8",
+"mutation": {
+"expression": Array[Dictionary]([{
+"type": "variable",
+"value": "global"
+}, {
+"type": "dot"
+}, {
+"type": "variable",
+"value": "is_correct_ans_intro_2"
+}, {
+"type": "assignment",
+"value": "="
+}, {
+"type": "bool",
+"value": true
+}])
+},
+"next_id": "9",
+"parent_id": "6",
+"type": "mutation"
+},
+"9": {
+"id": "9",
+"is_snippet": false,
+"next_id": "end",
+"type": "goto"
+}
+}
+metadata/dialogue_manager_version = "2.27.1"
