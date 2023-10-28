@@ -1,0 +1,10 @@
+~ start
+Soham: is wind renewable?
+- yes
+	do global.is_correct_wind = true
+	
+
+- no
+	Soham: OK 
+	=> END
+=> END

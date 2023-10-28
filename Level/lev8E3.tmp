@@ -1,0 +1,21 @@
+[gd_scene load_steps=3 format=3 uid="uid://bootnsr7xjna0"]
+
+[ext_resource type="PackedScene" uid="uid://boheqcn4tcc3b" path="res://Player/player.tscn" id="1_3ft6i"]
+[ext_resource type="PackedScene" uid="uid://4xgdnidbibmx" path="res://door.tscn" id="8_6v58s"]
+
+[node name="level1" type="Node2D"]
+
+[node name="Player" parent="." instance=ExtResource("1_3ft6i")]
+position = Vector2(-150, -29)
+
+[node name="RemoteTransform2D" type="RemoteTransform2D" parent="Player"]
+remote_path = NodePath("../../Camera2D")
+
+[node name="DoorSolar" parent="." instance=ExtResource("8_6v58s")]
+position = Vector2(-74, 42)
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(-150, -29)
+
+[node name="DoorWind" parent="." instance=ExtResource("8_6v58s")]
+position = Vector2(160, -118)
