@@ -1,0 +1,13 @@
+~ start
+
+
+Soham: is wind renewable?
+- yes
+	do global.is_correct_solar = true
+	
+	
+- no
+	Soham: OK 
+	=> END
+
+=> END

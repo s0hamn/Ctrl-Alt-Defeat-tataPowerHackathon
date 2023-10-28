@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_10"
+type="Resource"
+uid="uid://c6ftlw512wpon"
+path="res://.godot/imported/wind.dialogue-13c35b303c9ac1b393e8253701a444ad.tres"
+
+[deps]
+
+source_file="res://wind.dialogue"
+dest_files=["res://.godot/imported/wind.dialogue-13c35b303c9ac1b393e8253701a444ad.tres"]
+
+[params]
+
+defaults=true

@@ -1,15 +1,78 @@
-ea4bc82a6ad023ab7ee23ee620429895
-::res://::1698415586
-button.tres::Theme::7040267950324687039::1698415522::0::1::::<><>::uid://rpj8go0o1a8::::res://widgets/button.png
+1b68385e458f39b50782b41f7e95c77f
+::res://::1698457726
+button.tres::Theme::7040267950324687039::1698453193::0::1::::<><>::uid://rpj8go0o1a8::::res://widgets/button.png
+door.tscn::PackedScene::2083327508484573283::1698457726::0::1::::<><>::uid://d35wwexh0h0t4::::res://assets/Sprout Lands - Sprites - Basic pack/Sprout Lands - Sprites - Basic pack/Tilesets/Wooden House.png
 hello.txt::TextFile::-1::1698415522::0::1::::<><>::
 icon.svg::CompressedTexture2D::775558264003983351::1698415522::1698415590::1::::<><>::
-main.tscn::PackedScene::5495315610621595735::1698415522::0::1::::<><>::uid://c7kmgjlnh51ax::::res://button.tres
+main.dialogue::Resource::7398547440085235875::1698457823::1698457823::1::::<><>::res://addons/dialogue_manager/dialogue_resource.gd
+main.gd::GDScript::-1::1698415715::0::1::::<>Node2D<>::
+main.tscn::PackedScene::5495315610621595735::1698454055::0::1::::<><>::res://main.gd<>uid://c7kmgjlnh51ax::::res://button.tres
 README.md::TextFile::-1::1698415521::0::1::::<><>::
-::res://assets/::1698415521
-::res://assets/PixelSpaces/::1698415521
+global.gd::GDScript::-1::1698455600::0::1::::<>Node<>::
+global1.gd::GDScript::-1::1698456125::0::1::::<>Node<>::
+try.tscn::PackedScene::8247164910756663236::1698452383::0::1::::<><>::
+wind.dialogue::Resource::6960191878607141829::1698455771::1698455771::1::::<><>::res://addons/dialogue_manager/dialogue_resource.gd
+::res://addons/::1698443649
+::res://addons/dialogue_manager/::1698442893
+constants.gd::GDScript::-1::1698437671::0::1::::<>Node<>::
+dialogue_label.gd::GDScript::-1::1698437671::0::1::::DialogueLabel<>RichTextLabel<>res://addons/dialogue_manager/assets/icon.svg::
+dialogue_label.tscn::PackedScene::5518490004210093266::1698437671::0::1::::<><>::res://addons/dialogue_manager/dialogue_label.gd
+dialogue_line.gd::GDScript::-1::1698437671::0::1::::DialogueLine<>RefCounted<>::
+dialogue_manager.gd::GDScript::-1::1698437671::0::1::::<>Node<>::
+dialogue_reponses_menu.gd::GDScript::-1::1698437671::0::1::::DialogueResponsesMenu<>VBoxContainer<>res://addons/dialogue_manager/assets/responses_menu.svg::
+dialogue_resource.gd::GDScript::-1::1698437671::0::1::::DialogueResource<>Resource<>res://addons/dialogue_manager/assets/icon.svg::
+dialogue_response.gd::GDScript::-1::1698437671::0::1::::DialogueResponse<>RefCounted<>::
+editor_translation_parser_plugin.gd::GDScript::-1::1698437672::0::1::::<>EditorTranslationParserPlugin<>::
+import_plugin.gd::GDScript::-1::1698437672::0::1::::<>EditorImportPlugin<>::
+plugin.cfg::TextFile::-1::1698437672::0::1::::<><>::
+plugin.gd::GDScript::-1::1698437673::0::1::::<>EditorPlugin<>::
+test_scene.gd::GDScript::-1::1698437673::0::1::::BaseDialogueTestScene<>Node2D<>::
+test_scene.tscn::PackedScene::-1::1698437673::0::1::::<><>::res://addons/dialogue_manager/test_scene.gd
+::res://addons/dialogue_manager/assets/::1698442893
+icon.svg::CompressedTexture2D::9148339284877624195::1698437669::1698437674::1::::<><>::
+responses_menu.svg::CompressedTexture2D::8371359403825774630::1698437669::1698437674::1::::<><>::
+update.svg::CompressedTexture2D::9126631778427806641::1698437669::1698437674::1::::<><>::
+::res://addons/dialogue_manager/components/::1698442893
+code_edit.gd::GDScript::-1::1698437669::0::1::::<>CodeEdit<>::
+code_edit.tscn::PackedScene::5379618807048408118::1698437669::0::1::::<><>::res://addons/dialogue_manager/components/code_edit_syntax_highlighter.gd<>res://addons/dialogue_manager/components/code_edit.gd
+code_edit_syntax_highlighter.gd::GDScript::-1::1698437669::0::1::::<>SyntaxHighlighter<>::
+dialogue_cache.gd::GDScript::-1::1698437669::0::1::::<>Node<>::
+download_update_panel.gd::GDScript::-1::1698437669::0::1::::<>Control<>::
+download_update_panel.tscn::PackedScene::1130642722554629364::1698437669::0::1::::<><>::res://addons/dialogue_manager/components/download_update_panel.gd<>uid://d3baj6rygkb3f
+errors_panel.gd::GDScript::-1::1698437669::0::1::::<>HBoxContainer<>::
+errors_panel.tscn::PackedScene::6105315990352960875::1698437670::0::1::::<><>::res://addons/dialogue_manager/components/errors_panel.gd
+files_list.gd::GDScript::-1::1698437670::0::1::::<>VBoxContainer<>::
+files_list.tscn::PackedScene::8113335055803740416::1698437670::0::1::::<><>::res://addons/dialogue_manager/components/files_list.gd<>uid://d3lr2uas6ax8v
+parser.gd::GDScript::-1::1698437670::0::1::::DialogueManagerParser<>Object<>::
+parse_result.gd::GDScript::-1::1698437670::0::1::::DialogueManagerParseResult<>RefCounted<>::
+resolved_line_data.gd::GDScript::-1::1698437670::0::1::::ResolvedLineData<>RefCounted<>::
+resolved_tag_data.gd::GDScript::-1::1698437670::0::1::::ResolvedTagData<>RefCounted<>::
+search_and_replace.gd::GDScript::-1::1698437670::0::1::::<>VBoxContainer<>::
+search_and_replace.tscn::PackedScene::458254375860855630::1698437670::0::1::::<><>::res://addons/dialogue_manager/components/search_and_replace.gd
+settings.gd::GDScript::-1::1698437670::0::1::::<>Node<>::
+title_list.gd::GDScript::-1::1698437670::0::1::::<>VBoxContainer<>::
+title_list.tscn::PackedScene::6134415340044566558::1698437670::0::1::::<><>::res://addons/dialogue_manager/components/title_list.gd
+update_button.gd::GDScript::-1::1698437670::0::1::::<>Button<>::
+update_button.tscn::PackedScene::5825087957514786930::1698437671::0::1::::<><>::res://addons/dialogue_manager/components/update_button.gd<>uid://qdxrxv3c3hxk
+::res://addons/dialogue_manager/example_balloon/::1698442893
+example_balloon.gd::GDScript::-1::1698437672::0::1::::<>CanvasLayer<>::
+example_balloon.tscn::PackedScene::2304415056852043862::1698437672::0::1::::<><>::res://addons/dialogue_manager/example_balloon/example_balloon.gd<>uid://ckvgyvclnwggo
+small_example_balloon.tscn::PackedScene::1883859960814163368::1698437672::0::1::::<><>::res://addons/dialogue_manager/example_balloon/example_balloon.gd<>uid://ckvgyvclnwggo
+::res://addons/dialogue_manager/l10n/::1698442893
+en.mo::Translation::-1::1698437672::0::1::::<><>::
+en.po::Translation::-1::1698437672::0::1::::<><>::
+zh.po::Translation::-1::1698437672::0::1::::<><>::
+zh_TW.po::Translation::-1::1698437672::0::1::::<><>::
+::res://addons/dialogue_manager/views/::1698442893
+main_view.gd::GDScript::-1::1698437673::0::1::::<>Control<>::
+main_view.tscn::PackedScene::4884668666408697448::1698437673::0::1::::<><>::res://addons/dialogue_manager/views/main_view.gd<>uid://civ6shmka5e8u
+settings_view.gd::GDScript::-1::1698437673::0::1::::<>TabContainer<>::
+settings_view.tscn::PackedScene::5839841081119266502::1698437673::0::1::::<><>::res://addons/dialogue_manager/views/settings_view.gd
+::res://assets/::1698442894
+::res://assets/PixelSpaces/::1698442894
 PixelSpaces Free Pack.png::CompressedTexture2D::1594635253960996641::1698415521::1698415521::1::::<><>::
 readme.txt::TextFile::-1::1698415521::0::1::::<><>::
-::res://assets/PixelSpaces/Backgrounds/::1698415521
+::res://assets/PixelSpaces/Backgrounds/::1698442893
 Cloud_1.png::CompressedTexture2D::6107221025342893701::1698415521::1698415521::1::::<><>::
 Cloud_small_3.png::CompressedTexture2D::8111011575929327654::1698415521::1698415521::1::::<><>::
 House_largel_red.png::CompressedTexture2D::1689836107091946379::1698415521::1698415521::1::::<><>::
@@ -18,7 +81,7 @@ Mountain_large_1.png::CompressedTexture2D::7898780394002186155::1698415521::1698
 Mountain_medium_1.png::CompressedTexture2D::8464254378243802899::1698415521::1698415521::1::::<><>::
 Mountain_small_1.png::CompressedTexture2D::1203728482887642256::1698415521::1698415521::1::::<><>::
 Tree_medium.png::CompressedTexture2D::966810587889791564::1698415521::1698415521::1::::<><>::
-::res://assets/PixelSpaces/Furniture/::1698415521
+::res://assets/PixelSpaces/Furniture/::1698442893
 Door_closed.png::CompressedTexture2D::6372564201414252616::1698415521::1698415521::1::::<><>::
 Door_opened.png::CompressedTexture2D::1905911087480081778::1698415521::1698415521::1::::<><>::
 Elevator_closed.png::CompressedTexture2D::8275642666375081142::1698415521::1698415521::1::::<><>::
@@ -28,7 +91,7 @@ Light_2.png::CompressedTexture2D::7461877491610692948::1698415521::1698415521::1
 Light_3.png::CompressedTexture2D::5018249798515985933::1698415521::1698415521::1::::<><>::
 Sign_exit_left.png::CompressedTexture2D::1660371095179994576::1698415521::1698415521::1::::<><>::
 Stairs.png::CompressedTexture2D::3651922407916921085::1698415521::1698415521::1::::<><>::
-::res://assets/PixelSpaces/Furniture/Bathroom/::1698415521
+::res://assets/PixelSpaces/Furniture/Bathroom/::1698442893
 Bathtub.png::CompressedTexture2D::7309852734573310448::1698415521::1698415521::1::::<><>::
 Mirror.png::CompressedTexture2D::1212344448032989533::1698415521::1698415521::1::::<><>::
 Sink_bathroom.png::CompressedTexture2D::7511466018474942898::1698415521::1698415521::1::::<><>::
@@ -36,7 +99,7 @@ Sink_bathroom_2.png::CompressedTexture2D::4157394611162771315::1698415521::16984
 Toilet.png::CompressedTexture2D::8767887467126006213::1698415521::1698415521::1::::<><>::
 Toilet_side.png::CompressedTexture2D::3491870196541288055::1698415521::1698415521::1::::<><>::
 Towel_rail.png::CompressedTexture2D::884270065408447055::1698415521::1698415521::1::::<><>::
-::res://assets/PixelSpaces/Furniture/Bedroom/::1698415521
+::res://assets/PixelSpaces/Furniture/Bedroom/::1698442893
 Bed_red.png::CompressedTexture2D::7972027189317432386::1698415521::1698415521::1::::<><>::
 Bed_yellow.png::CompressedTexture2D::3738700300296368642::1698415521::1698415521::1::::<><>::
 Bunkbed_bottom_red.png::CompressedTexture2D::7686906994794014162::1698415521::1698415521::1::::<><>::
@@ -48,7 +111,7 @@ Lamp_bedroom_3.png::CompressedTexture2D::2898417077888410071::1698415521::169841
 Lamp_stand_1.png::CompressedTexture2D::3370924649752253527::1698415521::1698415521::1::::<><>::
 Lamp_stand_2.png::CompressedTexture2D::8304888091667227925::1698415521::1698415521::1::::<><>::
 Laptop.png::CompressedTexture2D::4353053242316657989::1698415521::1698415521::1::::<><>::
-::res://assets/PixelSpaces/Furniture/Kitchen/::1698415521
+::res://assets/PixelSpaces/Furniture/Kitchen/::1698442893
 Countertop.png::CompressedTexture2D::4300226740269366087::1698415521::1698415521::1::::<><>::
 Countertop_connecting.png::CompressedTexture2D::5532500383710725485::1698415521::1698415521::1::::<><>::
 Countertop_end.png::CompressedTexture2D::2626806780799289139::1698415521::1698415521::1::::<><>::
@@ -58,7 +121,7 @@ Refrigerator_large_white.png::CompressedTexture2D::4143194590891730952::16984155
 Sink.png::CompressedTexture2D::5167167767318074543::1698415521::1698415521::1::::<><>::
 Sink_connecting.png::CompressedTexture2D::3678222472188417500::1698415521::1698415521::1::::<><>::
 Sink_end.png::CompressedTexture2D::5115345469373932690::1698415521::1698415521::1::::<><>::
-::res://assets/PixelSpaces/Furniture/Living Room/::1698415521
+::res://assets/PixelSpaces/Furniture/Living Room/::1698442893
 Bookshelf_1.png::CompressedTexture2D::8195615984079861242::1698415521::1698415521::1::::<><>::
 Bookshelf_small.png::CompressedTexture2D::3705903030728375062::1698415521::1698415521::1::::<><>::
 Coffee_table_1.png::CompressedTexture2D::4485623375736528154::1698415521::1698415521::1::::<><>::
@@ -87,13 +150,13 @@ Table_long.png::CompressedTexture2D::68884403231957015::1698415521::1698415521::
 Table_medium.png::CompressedTexture2D::8409854576062740788::1698415521::1698415521::1::::<><>::
 Window_circle.png::CompressedTexture2D::7863735222238253145::1698415521::1698415521::1::::<><>::
 Window_square.png::CompressedTexture2D::2720368856623765031::1698415521::1698415521::1::::<><>::
-::res://assets/PixelSpaces/Objects/::1698415521
-::res://assets/PixelSpaces/Objects/Bathroom/::1698415521
+::res://assets/PixelSpaces/Objects/::1698442893
+::res://assets/PixelSpaces/Objects/Bathroom/::1698442893
 Bathtub_towel_blue.png::CompressedTexture2D::171314307901732212::1698415521::1698415521::1::::<><>::
 Bathtub_towel_red.png::CompressedTexture2D::3236100487461995110::1698415521::1698415521::1::::<><>::
 Bath_towel_long_blue.png::CompressedTexture2D::4667474542690251522::1698415521::1698415521::1::::<><>::
 Bath_towel_long_green.png::CompressedTexture2D::2791639162261059572::1698415521::1698415521::1::::<><>::
-::res://assets/PixelSpaces/Objects/Bedroom/::1698415521
+::res://assets/PixelSpaces/Objects/Bedroom/::1698442893
 Alarm_clock_red.png::CompressedTexture2D::8065940144483892509::1698415521::1698415521::1::::<><>::
 Backpack_blue.png::CompressedTexture2D::6402178504814618725::1698415521::1698415521::1::::<><>::
 Backpack_red.png::CompressedTexture2D::6318532333805847802::1698415521::1698415521::1::::<><>::
@@ -112,7 +175,7 @@ Moving_package_small.png::CompressedTexture2D::7537798714813919280::1698415521::
 Poster_1.png::CompressedTexture2D::7231068692203127049::1698415521::1698415521::1::::<><>::
 Skateboard_green.png::CompressedTexture2D::117520480695168081::1698415521::1698415521::1::::<><>::
 Trophy.png::CompressedTexture2D::3863576867786354825::1698415521::1698415521::1::::<><>::
-::res://assets/PixelSpaces/Objects/Kitchen/::1698415521
+::res://assets/PixelSpaces/Objects/Kitchen/::1698442893
 Blender_blue.png::CompressedTexture2D::9126459640589326475::1698415521::1698415521::1::::<><>::
 Blender_cup_red.png::CompressedTexture2D::1756927991981864865::1698415521::1698415521::1::::<><>::
 Blender_orange.png::CompressedTexture2D::8433851222747449886::1698415521::1698415521::1::::<><>::
@@ -128,7 +191,7 @@ Oven.png::CompressedTexture2D::6378672280031035775::1698415521::1698415521::1:::
 Oven_connecting.png::CompressedTexture2D::648335286727948884::1698415521::1698415521::1::::<><>::
 Oven_end.png::CompressedTexture2D::8907548676147488896::1698415521::1698415521::1::::<><>::
 Refrigerator_sticky_notes_1.png::CompressedTexture2D::6049485346811116477::1698415521::1698415521::1::::<><>::
-::res://assets/PixelSpaces/Objects/Living Room/::1698415521
+::res://assets/PixelSpaces/Objects/Living Room/::1698442894
 Books_inside_1.png::CompressedTexture2D::6170260834215035697::1698415521::1698415521::1::::<><>::
 Books_inside_2.png::CompressedTexture2D::686657090149107803::1698415521::1698415521::1::::<><>::
 Books_inside_3.png::CompressedTexture2D::5386117581673095377::1698415521::1698415521::1::::<><>::
@@ -146,10 +209,41 @@ Flowerpot_small_green.png::CompressedTexture2D::324164783582135343::1698415521::
 Flowerpot_small_red.png::CompressedTexture2D::5318443552981562101::1698415521::1698415521::1::::<><>::
 Flowerpot_small_yellow.png::CompressedTexture2D::4084543351183892340::1698415521::1698415521::1::::<><>::
 Vase_red.png::CompressedTexture2D::6682059721976626443::1698415521::1698415521::1::::<><>::
-::res://assets/PixelSpaces/Pre-made NPCs/::1698415521
+::res://assets/PixelSpaces/Pre-made NPCs/::1698442894
 Female.png::CompressedTexture2D::8747495341618113270::1698415521::1698415521::1::::<><>::
 Male.png::CompressedTexture2D::8086352991715483446::1698415521::1698415521::1::::<><>::
-::res://assets/Village/::1698415521
+::res://assets/Sprout Lands - Sprites - Basic pack/::1698442894
+::res://assets/Sprout Lands - Sprites - Basic pack/Sprout Lands - Sprites - Basic pack/::1698442894
+read_me.txt::TextFile::-1::1657796114::0::1::::<><>::
+::res://assets/Sprout Lands - Sprites - Basic pack/Sprout Lands - Sprites - Basic pack/Characters/::1698442894
+Basic Charakter Actions.png::CompressedTexture2D::1213713004786541381::1646980140::1698431007::1::::<><>::
+Basic Charakter Spritesheet.png::CompressedTexture2D::4985911399383863704::1644622982::1698431007::1::::<><>::
+Egg_And_Nest.png::CompressedTexture2D::8734201607857385770::1688758316::1698431007::1::::<><>::
+Free Chicken Sprites.png::CompressedTexture2D::7770659450599793714::1686867318::1698431007::1::::<><>::
+Free Cow Sprites.png::CompressedTexture2D::481075677401985377::1642805010::1698431007::1::::<><>::
+Tools.png::CompressedTexture2D::1318500371824438102::1646980362::1698431007::1::::<><>::
+::res://assets/Sprout Lands - Sprites - Basic pack/Sprout Lands - Sprites - Basic pack/Objects/::1698442894
+Basic Furniture.png::CompressedTexture2D::1878702201811960491::1640135006::1698431007::1::::<><>::
+Basic Grass Biom things 1.png::CompressedTexture2D::3275734462675985272::1641347364::1698431007::1::::<><>::
+Basic Plants.png::CompressedTexture2D::3853210166195756416::1640132644::1698431007::1::::<><>::
+Basic tools and meterials.png::CompressedTexture2D::7503675121122799008::1646980688::1698431007::1::::<><>::
+Chest.png::CompressedTexture2D::9197849962952125289::1643077286::1698431007::1::::<><>::
+Egg item.png::CompressedTexture2D::576055351110716193::1686868278::1698431007::1::::<><>::
+Free_Chicken_House.png::CompressedTexture2D::4997548899832909947::1688758142::1698431007::1::::<><>::
+Paths.png::CompressedTexture2D::382788544722233409::1642804164::1698431007::1::::<><>::
+Simple Milk and grass item.png::CompressedTexture2D::6493698568901817733::1642884486::1698431007::1::::<><>::
+Wood Bridge.png::CompressedTexture2D::6551697726893004026::1642804230::1698431007::1::::<><>::
+::res://assets/Sprout Lands - Sprites - Basic pack/Sprout Lands - Sprites - Basic pack/Sprout Lands color pallet/::1698442894
+Sprout Lands defautlt palette snip.PNG::CompressedTexture2D::1137612011240134260::1689705158::1698431007::1::::<><>::
+Sprout Lands defautlt palette.png::CompressedTexture2D::1407200006773652609::1689705086::1698431007::1::::<><>::
+::res://assets/Sprout Lands - Sprites - Basic pack/Sprout Lands - Sprites - Basic pack/Tilesets/::1698442894
+Fences.png::CompressedTexture2D::4506415898276996257::1640133932::1698431007::1::::<><>::
+Grass.png::CompressedTexture2D::8538631556928726064::1688585734::1698431007::1::::<><>::
+Hills.png::CompressedTexture2D::167576306126709288::1640127384::1698431007::1::::<><>::
+Tilled Dirt.png::CompressedTexture2D::1903311844790891975::1688581500::1698431007::1::::<><>::
+Water.png::CompressedTexture2D::7310518595641770069::1640133522::1698431007::1::::<><>::
+Wooden House.png::CompressedTexture2D::9187856312848436335::1640135046::1698431007::1::::<><>::
+::res://assets/Village/::1698442894
 demoscene-34d3b55775e407cc67f26e4d00baa7b6_gradientarbre Base Color.png::CompressedTexture2D::3786270278067850938::1698415521::1698415521::1::::<><>::
 demoscene-34d3b55775e407cc67f26e4d00baa7b6_letoitrouge.png::CompressedTexture2D::1700882680906269027::1698415521::1698415521::1::::<><>::
 demoscene-34d3b55775e407cc67f26e4d00baa7b6_mur2.png::CompressedTexture2D::5842178795906799607::1698415521::1698415521::1::::<><>::
@@ -163,7 +257,7 @@ demoscene-34d3b55775e407cc67f26e4d00baa7b6_unnamed (9).png::CompressedTexture2D:
 demoscene-34d3b55775e407cc67f26e4d00baa7b6_unnamed.png::CompressedTexture2D::5858378045040260626::1698415521::1698415521::1::::<><>::
 demoscene-34d3b55775e407cc67f26e4d00baa7b6_wood.png::CompressedTexture2D::8737834314199106720::1698415521::1698415521::1::::<><>::
 demoscene.fbx::PackedScene::4944350709355018677::1698415521::1698415521::1::::<><>::
-::res://assets/Village/demoscene.fbm/::1698415521
+::res://assets/Village/demoscene.fbm/::1698442894
 gradientarbre Base Color.png::CompressedTexture2D::136919938927708378::1698415521::1698415521::1::::<><>::
 letoitrouge.png::CompressedTexture2D::9011443886124322210::1698415521::1698415521::1::::<><>::
 mur2.png::CompressedTexture2D::711605119022088531::1698415521::1698415521::1::::<><>::
@@ -176,7 +270,7 @@ unnamed (8).png::CompressedTexture2D::8058047429581637643::1698415521::169841552
 unnamed (9).png::CompressedTexture2D::3765683010524897064::1698415521::1698415521::1::::<><>::
 unnamed.png::CompressedTexture2D::2415232497150732113::1698415521::1698415521::1::::<><>::
 wood.png::CompressedTexture2D::74554353865131441::1698415521::1698415521::1::::<><>::
-::res://assets/Village/individuals files/::1698415522
+::res://assets/Village/individuals files/::1698442894
 bench-606c7546a29615dc6d479a86d962f470_wood.png::CompressedTexture2D::5794987730870192507::1698415521::1698415521::1::::<><>::
 bench.fbx::PackedScene::8987927103601975926::1698415522::1698415522::1::::<><>::
 benchchair-6025a008ace55bf4bde79ac4d81302b0_wood.png::CompressedTexture2D::6709593551146485951::1698415522::1698415522::1::::<><>::
@@ -261,91 +355,96 @@ tree.fbx::PackedScene::404128444620059715::1698415522::1698415522::1::::<><>::
 tree_001-4c784858585aef44cd1ac9f7964c7aa0_gradientarbre Base Color.png::CompressedTexture2D::2296727218759106920::1698415522::1698415522::1::::<><>::
 tree_001-4c784858585aef44cd1ac9f7964c7aa0_wood.png::CompressedTexture2D::6960260772799117992::1698415522::1698415522::1::::<><>::
 tree_001.fbx::PackedScene::761004898289008001::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/bench.fbm/::1698415521
+::res://assets/Village/individuals files/bench.fbm/::1698442894
 wood.png::CompressedTexture2D::6981637087428329262::1698415521::1698415521::1::::<><>::
-::res://assets/Village/individuals files/benchchair.fbm/::1698415522
+::res://assets/Village/individuals files/benchchair.fbm/::1698442894
 wood.png::CompressedTexture2D::5110607282059894767::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/benchwood.fbm/::1698415522
+::res://assets/Village/individuals files/benchwood.fbm/::1698442894
 wood.png::CompressedTexture2D::4717307005117573250::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/billboard.fbm/::1698415522
+::res://assets/Village/individuals files/billboard.fbm/::1698442894
 wood.png::CompressedTexture2D::5592952784205155458::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/billboard_001.fbm/::1698415522
+::res://assets/Village/individuals files/billboard_001.fbm/::1698442894
 wood.png::CompressedTexture2D::4795941835835408417::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/cart.fbm/::1698415522
+::res://assets/Village/individuals files/cart.fbm/::1698442894
 wood.png::CompressedTexture2D::217255202052425339::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/flower.fbm/::1698415522
+::res://assets/Village/individuals files/flower.fbm/::1698442894
 gradientarbre Base Color.png::CompressedTexture2D::446132315083660750::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/flower_001.fbm/::1698415522
+::res://assets/Village/individuals files/flower_001.fbm/::1698442894
 gradientarbre Base Color.png::CompressedTexture2D::664248043612387673::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/flower_002.fbm/::1698415522
+::res://assets/Village/individuals files/flower_002.fbm/::1698442894
 gradientarbre Base Color.png::CompressedTexture2D::6093114942965220644::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/flower_003.fbm/::1698415522
+::res://assets/Village/individuals files/flower_003.fbm/::1698442894
 gradientarbre Base Color.png::CompressedTexture2D::8700146845106679933::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/flower_004.fbm/::1698415522
+::res://assets/Village/individuals files/flower_004.fbm/::1698442894
 gradientarbre Base Color.png::CompressedTexture2D::2276371487653793232::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/flower_005.fbm/::1698415522
+::res://assets/Village/individuals files/flower_005.fbm/::1698442894
 gradientarbre Base Color.png::CompressedTexture2D::8479605501580294351::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/grass.fbm/::1698415522
+::res://assets/Village/individuals files/grass.fbm/::1698442894
 gradientarbre Base Color.png::CompressedTexture2D::8771584772644536984::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/house1.fbm/::1698415522
+::res://assets/Village/individuals files/house1.fbm/::1698442894
 letoitrouge.png::CompressedTexture2D::7016937486126516366::1698415522::1698415522::1::::<><>::
 murchelou.png::CompressedTexture2D::1635094870854736707::1698415522::1698415522::1::::<><>::
 sky.png::CompressedTexture2D::2491416280999308541::1698415522::1698415522::1::::<><>::
 unnamed.png::CompressedTexture2D::7719337857667121931::1698415522::1698415522::1::::<><>::
 wood.png::CompressedTexture2D::2247630270655165146::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/house2.fbm/::1698415522
+::res://assets/Village/individuals files/house2.fbm/::1698442894
 murchelou.png::CompressedTexture2D::7612161275937435007::1698415522::1698415522::1::::<><>::
 sky.png::CompressedTexture2D::7756433998313870470::1698415522::1698415522::1::::<><>::
 unnamed (9).png::CompressedTexture2D::3559185974296354636::1698415522::1698415522::1::::<><>::
 unnamed.png::CompressedTexture2D::2331933720795570502::1698415522::1698415522::1::::<><>::
 wood.png::CompressedTexture2D::6496605914492043142::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/house3.fbm/::1698415522
+::res://assets/Village/individuals files/house3.fbm/::1698442894
 murchelou.png::CompressedTexture2D::1428448626686126435::1698415522::1698415522::1::::<><>::
 sky.png::CompressedTexture2D::2526230748185869349::1698415522::1698415522::1::::<><>::
 wood.png::CompressedTexture2D::3398929054745136725::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/house4.fbm/::1698415522
+::res://assets/Village/individuals files/house4.fbm/::1698442894
 mur2.png::CompressedTexture2D::4578081648105046634::1698415522::1698415522::1::::<><>::
 sky.png::CompressedTexture2D::4190016764116326531::1698415522::1698415522::1::::<><>::
 unnamed (8).png::CompressedTexture2D::4388878671025021935::1698415522::1698415522::1::::<><>::
 unnamed.png::CompressedTexture2D::381367779047492699::1698415522::1698415522::1::::<><>::
 wood.png::CompressedTexture2D::6834375282408227315::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/house5.fbm/::1698415522
+::res://assets/Village/individuals files/house5.fbm/::1698442894
 mur2.png::CompressedTexture2D::658316802207501386::1698415522::1698415522::1::::<><>::
 sky.png::CompressedTexture2D::1813781728282797779::1698415522::1698415522::1::::<><>::
 wood.png::CompressedTexture2D::4444627558270725706::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/house6.fbm/::1698415522
+::res://assets/Village/individuals files/house6.fbm/::1698442894
 mur2.png::CompressedTexture2D::2159820328153136739::1698415522::1698415522::1::::<><>::
 rougeavecdestrucsblancs.png::CompressedTexture2D::3009158891811633290::1698415522::1698415522::1::::<><>::
 sky.png::CompressedTexture2D::5892414429610153568::1698415522::1698415522::1::::<><>::
 wood.png::CompressedTexture2D::6316839815229666916::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/house7.fbm/::1698415522
+::res://assets/Village/individuals files/house7.fbm/::1698442894
 murchelou.png::CompressedTexture2D::3736589779642631630::1698415522::1698415522::1::::<><>::
 sky.png::CompressedTexture2D::5152317182510702437::1698415522::1698415522::1::::<><>::
 wood.png::CompressedTexture2D::3514597082022358439::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/house8.fbm/::1698415522
+::res://assets/Village/individuals files/house8.fbm/::1698442894
 murchelou.png::CompressedTexture2D::922899374407504457::1698415522::1698415522::1::::<><>::
 sky.png::CompressedTexture2D::165189720368134582::1698415522::1698415522::1::::<><>::
 unnamed (8).png::CompressedTexture2D::4145250742218643865::1698415522::1698415522::1::::<><>::
 wood.png::CompressedTexture2D::624455358326715325::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/littlegarden.fbm/::1698415522
+::res://assets/Village/individuals files/littlegarden.fbm/::1698442894
 gradientarbre Base Color.png::CompressedTexture2D::4313570604734358835::1698415522::1698415522::1::::<><>::
 unnamed (3).png::CompressedTexture2D::1479379717372372452::1698415522::1698415522::1::::<><>::
 wood.png::CompressedTexture2D::7348541989880379153::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/streetlight.fbm/::1698415522
+::res://assets/Village/individuals files/streetlight.fbm/::1698442894
 sky.png::CompressedTexture2D::184655579373078419::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/streetlight_001.fbm/::1698415522
+::res://assets/Village/individuals files/streetlight_001.fbm/::1698442894
 gradientarbre Base Color.png::CompressedTexture2D::2018380545645694951::1698415522::1698415522::1::::<><>::
 sky.png::CompressedTexture2D::4407393870066856608::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/tree.fbm/::1698415522
+::res://assets/Village/individuals files/tree.fbm/::1698442894
 wood.png::CompressedTexture2D::839761871206833948::1698415522::1698415522::1::::<><>::
-::res://assets/Village/individuals files/tree_001.fbm/::1698415522
+::res://assets/Village/individuals files/tree_001.fbm/::1698442894
 gradientarbre Base Color.png::CompressedTexture2D::3623495506154179968::1698415522::1698415522::1::::<><>::
 wood.png::CompressedTexture2D::8974691094398834947::1698415522::1698415522::1::::<><>::
-::res://FBX2glTF-windows-x86_64/::1698415521
+::res://FBX2glTF-windows-x86_64/::1698442894
 FBX2glTF-License.txt::TextFile::-1::1698415521::0::1::::<><>::
-::res://Prob_statement/::1698415521
-::res://widgets/::1698415522
+::res://Level/::1698457726
+level_1.tscn::PackedScene::3399143594532733509::1698457726::0::1::::<><>::uid://boheqcn4tcc3b::::res://Player/player.tscn<>uid://dtwgaqpn8l31e::::res://assets/Sprout Lands - Sprites - Basic pack/Sprout Lands - Sprites - Basic pack/Tilesets/Grass.png<>uid://2d8jd2ys3w6r::::res://assets/Sprout Lands - Sprites - Basic pack/Sprout Lands - Sprites - Basic pack/Tilesets/Tilled Dirt.png<>uid://cnf7su48ypo7::::res://assets/Sprout Lands - Sprites - Basic pack/Sprout Lands - Sprites - Basic pack/Tilesets/Hills.png<>uid://b5g7anh80b8qf::::res://assets/Sprout Lands - Sprites - Basic pack/Sprout Lands - Sprites - Basic pack/Tilesets/Fences.png<>uid://dcfjf5hce822l::::res://assets/Sprout Lands - Sprites - Basic pack/Sprout Lands - Sprites - Basic pack/Tilesets/Water.png<>uid://d35wwexh0h0t4::::res://assets/Sprout Lands - Sprites - Basic pack/Sprout Lands - Sprites - Basic pack/Tilesets/Wooden House.png<>uid://4xgdnidbibmx::::res://door.tscn
+::res://Player/::1698457726
+player.gd::GDScript::-1::1698457716::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::3383786706049774305::1698457726::0::1::::<><>::res://Player/player.gd<>uid://dnhdb1rjkb6m1::::res://assets/PixelSpaces/Pre-made NPCs/Male.png
+::res://Prob_statement/::1698442894
+::res://widgets/::1698442894
 button.png::CompressedTexture2D::36022992065123145::1698415522::1698415522::1::::<><>::
 buttonsOld.png::CompressedTexture2D::144162084940340353::1698415522::1698415522::1::::<><>::
-::res://widgets/background/::1698415522
+::res://widgets/background/::1698442894
 origbig.png::CompressedTexture2D::8651460349496561923::1698415522::1698415522::1::::<><>::

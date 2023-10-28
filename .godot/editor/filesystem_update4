@@ -1,4 +1,8 @@
-res://main.tscn
-res://button.tres
-res://main.gd
 res://Level/level_1.tscn
+res://button.tres
+res://global1.gd
+res://Player/player.gd
+res://main.tscn
+res://door.tscn
+res://Player/player.tscn
+res://global.gd

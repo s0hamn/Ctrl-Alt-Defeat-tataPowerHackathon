@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://4xgdnidbibmx"]
+
+[ext_resource type="Texture2D" uid="uid://d35wwexh0h0t4" path="res://assets/Sprout Lands - Sprites - Basic pack/Sprout Lands - Sprites - Basic pack/Tilesets/Wooden House.png" id="1_4mh4m"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_0mcq5"]
+size = Vector2(16, 16)
+
+[node name="Door" type="CharacterBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_4mh4m")
+hframes = 5
+vframes = 5
+frame = 7
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_0mcq5")
